@@ -19,6 +19,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import os
 
+
 #learning_rate
 INIT_LR=1e-4
 EPOCHS=20
