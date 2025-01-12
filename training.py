@@ -24,7 +24,6 @@ import os
 INIT_LR=1e-4
 EPOCHS=20
 BS=32
-
 Directory=r"E:\python\open cv\Computer Vision\face mask detection\dataset"
 Categories=["with_mask","without_mask"]
 
